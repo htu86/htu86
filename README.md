@@ -14,9 +14,3 @@ Hey I am htu, a student that decided to learn Web-Development as a hobby working
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /><br>
 
-
-## Other tools
-
-<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-
