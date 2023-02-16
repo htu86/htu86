@@ -1,16 +1,15 @@
-### Hi there 👋
+**`Beginner Web-Developer`**
 
-<!--
-**htu86/htu86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#About me#
 
-Here are some ideas to get you started:
+Hey I am htu, a student that decided to learn Web-Development as a hobby working to achieve my goal of becoming skilled enough to build amazing projects, I dedicated lots of my free time to programming and I learn through trial and error.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#My Skills
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+          
+
