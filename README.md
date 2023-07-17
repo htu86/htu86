@@ -1,4 +1,4 @@
-**`Beginner Web-Developer`**
+**`Avg Dev`**
 
 ## About me
 
@@ -11,7 +11,10 @@ Hey I am htu, a student that decided to learn Web-Development as a hobby working
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /><br>
 
+## Frameworks
+
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+<img align="left" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" />
